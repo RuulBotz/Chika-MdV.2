@@ -1,6 +1,6 @@
 /*
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/6285624670565
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
+global.owner = ['6285624670565','6285624670565','6285624670565']
 global.premium = ['6281575886399']
 global.ownername = 'RiychDwayne'
 global.botname = 'Chika-Md'
